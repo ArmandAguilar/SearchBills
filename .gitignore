@@ -1,0 +1,5 @@
+osvenv/
+tokensNotification.py
+tokensSQL.py
+*.DS_Store
+*.pyc
