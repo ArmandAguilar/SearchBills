@@ -23,4 +23,4 @@
 
 
 
-![How is works](https://github.com/ArmandAguilar/searchbills/blob/master/Diagrama/Diagrama.png)
+![How is works](https://github.com/ArmandAguilar/SearchBills/blob/master/Diagram/Diagram.png)
